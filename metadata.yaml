@@ -1,0 +1,26 @@
+_repo: '---------------_2592'
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: The Small Catechism of Martin Luther.
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2592'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lutheran Church -- Catechisms'
+- !lcc 'BX'
+- GITenberg
+title: マルチン・ルターの小信仰問答書
+url: http://www.gutenberg.org/ebooks/2592
